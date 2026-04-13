@@ -35,4 +35,4 @@ Each file contains:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/javascript-questions.git
+https://github.com/Parvez-31/javascript-questions
